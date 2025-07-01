@@ -1,1 +1,5 @@
-Developed the frontend of Bangkok Express food ordering service using a component-based approach. 
+**Сервис заказа еды Bangkok Express**
+
+Стек: HTML/CSS/JS
+
+Ссылка на верстку: https://yuliachirkovaa.github.io/bangkok-express/
